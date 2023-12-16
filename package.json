@@ -1,5 +1,5 @@
 {
-  "name": "swagger-typescript-express-node-mongo",
+  "name": "swagger-typescript-express-node-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
